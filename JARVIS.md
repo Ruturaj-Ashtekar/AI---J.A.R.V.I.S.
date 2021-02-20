@@ -72,13 +72,6 @@ def SpeechToText():
 def DateTime():
     a = datetime.date
     print(a)
-# def sendEmail(to,content):
-#     server = smtplib.SMTP("smtp.gmail.com",587)
-#     server.ehlo()
-#     server.starttls()
-#     server.login('technoruturaj@gmail.com','ruturaj123ashtekar')
-#     server.sendmail('technoruturaj@gmail.com',to,content)
-#     server.close()
 
 
 
